@@ -1,12 +1,22 @@
 # Tenub
 ### The Realm of Shadows
 
-A grand creation of [[Shax]].
+## Overview
 
-## General
+Long ago, [[Shax]] was alone.
+He does not remember when he came to be, and he does not remember when the [[Empty Lands]] or Tenub were made.
+He knows that he made them, and he knows that from his own perspective, they have always been.
+He exists, eternally, in both places at once, thus his appearance.
 
-A flat world overlayed atop Chaydis, showing only the stark white of light, and the shadows cast by all things.
-All with eyes can 'see' this alternate world, but only the [[Varin|varin]] and the [[Shadow Lanterns]] can truly go there; only they can experience the strange calm and safety of the infinite white and black void.
-Much like the children of other species, balancing on precarious shadows is key to move around in this place; though to trip and fall means you pop out into the world proper, and potentially at the wrong moment.
+Tenub is a place always just out of reach, but fully visible.
+Shadows stretching out along the ground, ARE the ground within this realm.
+Within, there is only white, and black; an unimpeded fall, or a place to stand, respectively.
+Doors, walls, and all manner of other defenses might well not even exist to one travelling through this place, if the place beyond is lit just so.
+If there is no light beyond, it's nigh impossible to judge where to aim for, and no guarantee that something horrible won't happen.
+And if there are shadows cast upon the walls, it's impenetrable, utterly and completely.
+No amount of force can dissipate a shadow, after all.
 
-## Secrets
+Very few living things find themselves in this strange place, and so those who do encounter a strange, unnerving calm of the white and black void.
+And if they should come at night, or stay late enough to experience it, they might be surprised to find that simple darkness does not suffice to make a platform.
+A shadow is a distinct thing, with distinct rules, and darkness is darkness, simple as that.
+Or at least, that's how the [[Varin|varin]] would explain it.
