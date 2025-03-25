@@ -1,6 +1,20 @@
 # Pang
 ### The Realm of Death
 
+## Overview
+
+[[Verath]] believed, very early on, that a record should be kept of the lives that were led and lost in Chaydis.
+To store such a thing anywhere on Chaydis itself seemed like an exercise in futility, and so, he created Pang.
+Within the realm of death, he stored himself, his [[Fungal Scribes]], and the memories of the dead.
+
+Each twilight, Pang finds a space within Chaydis to link to, temporarily anchoring itself within reality, allowing the scribes to travel outward and investigate all manner of things.
+The circumstances of one's death being chief among them, but 
+
+Those who die are led here to detail their life for the scribes.
+A life is generally not a short thing, and so the process can be quite long.
+The memories can be painful to recall, though that pain is dispersed and shared each time that Pang touches down on Chaydis.
+
+
 A grand creation of [[Verath]].
 
 ## General

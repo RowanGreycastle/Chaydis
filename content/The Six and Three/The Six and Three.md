@@ -1,4 +1,5 @@
-A general term used to describe the common pantheon of Chaydis.
+# The Six and Three
+### Greater Gods of Chaydis
 
 ## The Six
 

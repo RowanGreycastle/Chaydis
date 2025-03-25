@@ -1,7 +1,7 @@
 # Ancient Arcana
 ### Humanity's First Mana Manipulation
 
-## General
+## Overview
 
 The original use discovered for [[Mana|mana]] crystals.
 Sheer destructive force, unable to be reduced or contained, merely aimed, slightly shaped, and released.

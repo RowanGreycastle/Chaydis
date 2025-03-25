@@ -10,5 +10,4 @@ At current time, this includes:
 [[Sten]]
 [[Weva]]
 [[Unclaimed Continent]]
-[[The Moon]]
 [[Empty Lands]]

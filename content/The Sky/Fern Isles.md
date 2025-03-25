@@ -1,6 +1,8 @@
 # Fern Isles
 ### Fern Shaped Sky Island Chain
 
+## Overview
+
 When [[The Moon|the moon]] was removed from the ground and set aloft in the sky, the process used was not the gentlest.
 Chunks of the now airborne stone and dirt separated off, drifting across the unseen surface upon which they'd been placed.
 The Fern Isles are a grouping of the islands scattered across the sky, mainly inhabited by beasts capable of flying up so high, the descendants of those unfortunate enough to have been caught up in the upheaval, and the occasional curious [[Acita|acita]].
