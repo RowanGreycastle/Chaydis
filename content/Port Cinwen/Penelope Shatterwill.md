@@ -1,4 +1,7 @@
 # Penelope Shatterwill
+### Ancient and Determined
+
+## Overview
 
 In small [[Port Cinwen]], Penelope Shatterwill arrived along the [[Sunroads]] with her wife and children.
 They moved to this land in the hopes that it would further her wife's connections with the outside world.
