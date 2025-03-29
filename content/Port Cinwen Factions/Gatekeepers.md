@@ -1,5 +1,7 @@
 # Gatekeepers
-### Crafted the Guardian Runes
+### Crafted the Rune Wall
+
+## Overview
 
 The [[Acita|acita]] descended from [[The Moon|the moon]] to this port around fifty years ago.
 It took nearly five years for them to garner enough trust from the locals to carry out their task.
@@ -18,3 +20,8 @@ No homes had been breached, no families lost.
 
 Since this demonstration, this 'test run' in their work, the [[Acita|acita]] have been afforded quite a bit of trust; to the point where they have great influence in the goings on of [[Port Cinwen]].
 Of course, they wouldn't dare make a decision without the input of the children that helped them with their task.
+
+## Members
+
+[[Eydis Everstone]]
+[[Twang]]
