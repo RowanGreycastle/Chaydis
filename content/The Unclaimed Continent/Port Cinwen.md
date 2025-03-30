@@ -20,11 +20,13 @@ Even without tall walls and strong defenses, the people of Port Cinwen feel comf
 
 ## Residents
 
-[[Almine, Keeper of Tidal Sands]]
+[[Almine]]
 [[Eydis Everstone]]
 [[Fern Honeyblood]]
+[[Finn Bagmarsh]]
 [[Fleur Bresmaras]]
 [[Irees Kelbot]]
+[[Hester Bagmarsh]]
 [[NULL Alchemist Jek]]
 [[Odel Bagmarsh]]
 [[Penelope Shatterwill]]
