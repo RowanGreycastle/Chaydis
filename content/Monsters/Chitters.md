@@ -21,3 +21,9 @@ Another variant possesses flight, and an annoying buzz that demands attention.
 While not particularly dangerous, they still sting if they manage to take a chunk out of a person on their way past.
 
 One of the larger variants is quite adept at camouflage, possesses a spider-like capability to climb surfaces, and can squirt a glob of thick, sticky, glue-like substance to restrict the movement of prey.
+
+## History
+
+These were one of the first attempts by [[Famott]] to create life.
+Due to the extreme focus on efficiency, they overtook any environment they were released into with terrifying speed.
+If the [[Humans|humans]] of the time had not been well defended, Chaydis would have needed to be recreated from the ground up.
