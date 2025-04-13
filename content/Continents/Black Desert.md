@@ -15,4 +15,10 @@ At night, the desert sands seem to come alive, sparkling gloriously as a near mi
 The twinkling of the broken glass catching the light of [[The Moon]] and stars above is said to be breathtaking.
 This is the time that it is safest to travel the sands.
 
+## Position
+
+[[The Sunspire]] is located to the North, at the center of the desert.
+[[Laef]], [[Sten]], [[Weva]], and the [[Unclaimed Continent]] are all located to the South, across the [[Inring Sea]].
+The [[Empty Lands]] are located further South, across the [[Outring Ocean]].
+
 ## Secrets

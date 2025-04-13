@@ -19,6 +19,12 @@ Only the [[Kalis|kalis]] truly know how many villages are out there, as very few
 Further inland, it's said that one may stumble across what appears as an oasis of drinkable water.
 The shore at them is supposedly quite steep, and it should be obvious that no water would be liquid at this temperature.
 
+## Position
+
+[[Laef]], [[Sten]], [[Weva]], and the [[Unclaimed Continent]] are all located to the North, across the [[Outring Ocean]].
+The [[Black Desert]] is located further North, across the [[Inring Sea]].
+A blank and endless infinity is located to the South.
+
 ## Secrets
 
 This land was not created with the rest of Chaydis, and has existed for far longer.

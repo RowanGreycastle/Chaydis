@@ -13,6 +13,13 @@ The tree canopy blocks all vision of what hides far below, leaving those plentif
 For those who brave the woods, night or day matters not.
 There are tales of creatures there, sightless, who hunt with other methods.
 
+## Position
+
+The [[Black Desert]] is located to the North, across the [[Inring Sea]].
+The [[Unclaimed Continent]] is located to the East, across the [[Crossed Seas]].
+The [[Empty Lands]] are located to the South, across the [[Outring Ocean]].
+[[Sten]] is located to the West, across the [[Crossed Seas]].
+
 ## Secrets
 
 The deep woods contains only sparse [[Kalis|kalis]] settlements, plentiful creatures that hunt them, and many reasons to stay far, FAR from the deep woods.

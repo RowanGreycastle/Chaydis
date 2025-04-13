@@ -13,5 +13,12 @@ The mist that covers the land is dangerous, devouring anything that gets caught 
 
 At night, the creatures hunt.
 
+## Position
+
+The [[Black Desert]] is located to the North, across the [[Inring Sea]].
+[[Sten]] is located to the East, across the [[Crossed Seas]].
+The [[Empty Lands]] are located to the South, across the [[Outring Ocean]].
+The [[Unclaimed Continent]] is located to the West, across the [[Crossed Seas]].
+
 ## Secrets
 

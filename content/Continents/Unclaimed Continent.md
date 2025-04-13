@@ -12,6 +12,13 @@ As it has not been touched, the landscape is much more diverse than the others, 
 Night here is dangerous, but no more than any other place.
 Day here is safe, but no more than any other place.
 
+## Position
+
+The [[Black Desert]] is located to the North, across the [[Inring Sea]].
+[[Weva]] is located to the East, across the [[Crossed Seas]].
+The [[Empty Lands]] are located to the South, across the [[Outring Ocean]].
+[[Laef]] is located to the West, across the [[Crossed Seas]].
+
 ## Secrets
 
 The	continent is relatively untouched from the time of the splitting of the [[Continents|continents]], and so more natural processes have been allowed to take place, and the [[Spirits|spirits]] have had more say in how things develop.
