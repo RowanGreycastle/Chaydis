@@ -8,11 +8,11 @@ Working together is the only option, and sharing resources is the best way to ma
 
 ## Naming Traditions
 
+A [[Varin|varin]]'s last name comes from the name of the village that raised and taught them.
+
 Once a [[Varin|varin]] has learned to speak, they are asked to pick a name for themselves.
 There isn't a time limit to consider the choice, but the new arrival is encouraged to go with whatever pops to mind.
 Many [[Varin|varin]] names are just fun to say!
-
-A [[Varin|varin]]'s last name comes from the name of the village that raised and taught them.
 
 ## Shared Customs and Values
 
@@ -37,8 +37,8 @@ Each village has at least two heads; one who demonstrates cunning and guile abov
 The methodology for choosing the two heads differs greatly.
 
 The one who is fluent in the ways of words must be voted into the position, and then must travel to the nearest village to the East and West and meet with their people.
-They must be accepted in both neighboring villages, and are only named as a head.
-Once they have returned, they will be granted the title of Smile.
+They must be accepted in both neighboring villages.
+If they should return, they will be named as a head, and granted the title of Smile.
 
 The one who is adept at trickery must, in order to be considered, participate in a yearly prank competition.
 They must win in such a way where their adeptness can not be called into question.
