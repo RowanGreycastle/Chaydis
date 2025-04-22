@@ -22,7 +22,7 @@ Food brought back from hunts is distributed through the village by this method, 
 
 Each evening, after dinner has wrapped up, one of the current village heads tells a tale.
 Participation in the story is encouraged, but not required.
-Through this method, histories and important information are distributed to all who listen, and stories are repeated to stick in the minds of those in attendance.
+Through this method, histories and important information are distributed to all who listen, and stories are repeated to stick in the mind.
 
 Cunning and wit are highly valued, though it is important to be able to laugh at oneself and not take things too seriously.
 A smirk is an expression that invites snowballs.
@@ -30,6 +30,21 @@ A smirk is an expression that invites snowballs.
 Education is the job of the whole village.
 When a new [[Varin|varin]] is born into the world, the new life is seen as a younger sibling in need of good role models.
 The teaching of practical skills to the newcomer is highly valued, while practical jokes and pranks are scorned in those early years.
+
+It is best to keep a shadow within arm's reach.
+Shadows are safety, and safety allows one to live another day.
+The [[Shadow Meld|gift]] given by [[Shax]] ensure that every shadow is another place to hide.
+
+## Hunting Traditions
+
+[[Varin]] are tricksy out of necessity, as they do not grow to be particularly large or strong.
+In fact, they don't grow much at all.
+Additionally, one of the few sources of meat that isn't from a tamed [[Wooly Beetle]] comes from the [[Redbelly Daggerjaw]].
+These fish are so aggressive that they'll partially beach themselves in an attempt to nab a meal from the shore.
+The common method for hunting them is to lure them in with one of the hunters as bait, after setting something up to cast enough of a shadow to hide within.
+Once the fish is trapped, the hunters strike; a decisive blow enacted at a time of vulnerability, as they couldn't hope to overpower it otherwise.
+The one that was bait is granted the title of hunter, and gifted one of the fish's namesake teeth to be fashioned into a proper dagger once it's been brought back to the village.
+The knife is less a functional tool, and more of a symbol of the status of hunter.
 
 ## Government
 
