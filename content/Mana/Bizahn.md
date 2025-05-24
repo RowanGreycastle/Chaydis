@@ -1,8 +1,9 @@
-# Gro
-### Green Mana
+# Bizahn
+### Mana of Life
 
 ## Overview
 
+Frequently represented as a shade of green.
 Life associated [[Mana|mana]] that holds sway over growth.
 The main schools of thought in the usage of this [[Mana|mana]] are:
 Plant growth, gigantification, and tranquility.

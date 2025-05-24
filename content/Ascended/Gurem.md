@@ -7,7 +7,7 @@
 *Always jokin' about, claimin' they '[[Stone Friendship|grow mountains]]' in their spare time.*
 *And really, who can blame 'em?*
 *I know one who's old enough to've been old when my father was a boy.*
-*They're a [[Rok|tough sort]]; very little poses an actual threat to 'em because of that thick skin.*
+*They're a [[Lurahn|tough sort]]; very little poses an actual threat to 'em because of that thick skin.*
 *With that much goin' for ya, who wouldn't have a good sense of humor?*
 *They've got a strong sense of what's right and wrong with the mountains, and if they can, they'll [[Crom|work to fix it]], which helps us plenty.*
 *It can be a bit difficult to keep in contact with 'em though, since they're the [[Arken|solitary sort]], though if you can manage to befriend one, some day your grandkids might meet 'em.*

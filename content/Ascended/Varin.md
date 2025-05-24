@@ -9,7 +9,7 @@
 *And good luck chasin' after 'em; they [[Shadow Meld|disappear]] quick as they came, poppin' behind some little bush only to not be there when ya catch up.*
 *Doesn't seem to matter if they're surrounded, they'll find a way out.*
 *Hate to think what it'd be like to meet a full grown one.*
-*Only ever been the [[Wite|young]] seen... so far."*
+*Only ever been the [[Izosh|young]] seen... so far."*
 
 ## General Appearance
 
@@ -24,6 +24,20 @@ They take pride in their fluffy tails.
 
 They are omnivores, capable of eating a wide variety of plants and meat.
 This diet puts them most in line with the tastes of [[Humans|humans]] that need meat in their meal to be satisfied.
+
+## Procreation and Young
+
+Varin come from the discarded and lost shadows of the world, gathered together by the [[Shadow Lanterns]] and brought to the edge of the world to be shaped into new life by [[Shax]] himself.
+There are no records of varin being born anywhere else.
+
+Freshly born, they are in the bodies that they will have for their whole lives, unchanging and biologically immortal.
+Their minds are feral and cunning when they first arrive.
+They must be taught the ways of the world by their brothers and sisters.
+
+## Mana Association
+
+Their association with [[Izosh]] [[Mana]] is believed to be the cause of their locked biological state.
+As a species, the varin are exclusively capable of generating that sort of [[Mana|mana]] within themselves.
 
 ## Human Comparison
 

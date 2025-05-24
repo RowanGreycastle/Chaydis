@@ -40,7 +40,7 @@ His realm, [[Tenub]], is the place upon which all shadows are made tangible.
 It is speculated that before Chaydis, Shax would alternate where he sat, simply to see if there was any difference at all within the endless spaces.
 
 Through his ceaseless pestering of [[Famott]], the seasons change and the weather shifts.
-Nothing is left to be stagnant, despite the [[Wite]] that permeates the [[Empty Lands]].
+Nothing is left to be stagnant, despite the [[Izosh]] that permeates the [[Empty Lands]].
 
 ## Relationships
 

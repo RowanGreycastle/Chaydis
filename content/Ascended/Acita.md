@@ -11,7 +11,7 @@
 *If something DOES grab hold, it can easily become an obsession.*
 *One they may be able to conjure up answers for after a simple good night's sleep, without once having asked anyone; like the answer just came to 'em on the breeze.*
 *They insist that they travel to a '[[Elway|dream realm]]' when they [[Sleepless Rest|sleep]], and have nonsensical explanations for why people dream the way that they do.*
-*Wherever they go, a [[Aer|'feeling']] follows after, and changes follow soon after that."*
+*Wherever they go, a [[Haizesh|'feeling']] follows after, and changes follow soon after that."*
 
 ## General Appearance
 
@@ -28,6 +28,21 @@ The fluff colour and wing pattern will change upon the shifting of the seasons, 
 Their foods need to be pre-processed into a fluid in order to be absorbed properly.
 Honey, fruit juices, and other natural syrups that contain a significant amount of sugar are favourites of the mothfolk.
 They are obligate herbivores, and their dietary limitations have resulted in their eating utensil of choice being metal straws.
+
+## Procreation and Young
+
+Acita are born into Chaydis from the dreams of others, forming from a cloud, always as AT LEAST twins.
+This comes about when two or more acita who reside completely within [[Elway]] decide that they would like to move on from eternal days in [[Somnopolis]], and would like to instead architect their own dream realms, or just explore the infinite possibilities outside of the structured walls of the city.
+
+Freshly born acita are capable of walking only minutes after they come into the world.
+They are capable of speech in whichever languages the one whose dream they came from is fluent in.
+Their ability to fly comes slower, taking up to a month before the ability manifests.
+It's believed that learning the skill could well come much sooner, if they came from a dream about falling.
+
+## Mana Association
+
+Their ability to fly, despite not having wings built for it, is derived from their association with [[Haizesh]] [[Mana]].
+The freedom to travel the skies comes part and parcel with that being the only [[Mana|mana]] they can produce.
 
 ## Human Comparison
 

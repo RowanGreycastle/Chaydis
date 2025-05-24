@@ -3,7 +3,7 @@
 
 The cosmic creation of [[Gese]], later gifted to his [[Acita|acita]].
 
-The concentration of [[Mana|mana]] found here is nearly entirely [[Aer]].
+The concentration of [[Mana|mana]] found here is nearly entirely [[Haizesh]].
 
 ## General
 

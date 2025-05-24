@@ -3,7 +3,7 @@
 
 A verdant bowl-shaped continent that [[Verath]] chose for his [[Kalis|kalis]].
 
-The concentration of [[Mana|mana]] found here is nearly entirely [[Gro]].
+The concentration of [[Mana|mana]] found here is nearly entirely [[Bizahn]].
 
 ## Overview
 

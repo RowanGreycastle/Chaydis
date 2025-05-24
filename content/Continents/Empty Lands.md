@@ -4,7 +4,7 @@
 This is the land created by [[Shax]], and ruled as such.
 It was granted to the [[Kalis|kalis]] upon their creation.
 
-The concentration of [[Mana|mana]] found here is entirely [[Wite]].
+The concentration of [[Mana|mana]] found here is entirely [[Izosh]].
 
 ## Overview
 

@@ -8,7 +8,7 @@
 *Maybe their [[Metti|wits]] alone are enough to help 'em?*
 *Whatever the case, they're a fine folk, always willing to work things out and lend a hand where they can.*
 *They can live dang near anywhere, since they're good at diggin' holes.*
-*Got a way with [[Gro|plants]] that rivals the [[Spirits|spirits]].*
+*Got a way with [[Bizahn|plants]] that rivals the [[Spirits|spirits]].*
 *All that said... they've got an [[Sight Unseen|extra sense]] about danger.*
 *I've seen 'em uproot a whole community overnight, only for things to go belly up a few days later.*
 *If they suddenly pack up?*

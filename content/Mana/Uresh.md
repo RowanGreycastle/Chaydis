@@ -1,8 +1,9 @@
-# Akwa
-### Blue Mana
+# Uresh
+### Mana of the Ocean
 
 ## Overview
 
+Frequently represented as a deep blue or dark purple.
 Water associated [[Mana|mana]] that holds sway over fluid.
 The main schools of thought in the usage of this [[Mana|mana]] are:
 Water manipulation, poison creation/destruction, and transformation.

@@ -29,6 +29,12 @@ Without at least some of these skills, it is more likely than not that a young [
 Poetry and books are seen as proper gifting choices.
 Selections that show insight into the character of the receiver are valued highly, though one must be careful to not inadvertently imply unsavory things.
 
+It is an expected part of [[Kalis|kalis]] society that each individual is (once they are old enough) responsible for their own Escape Bag.
+It is the [[Kalis|kalis]] way to always be prepared to leave, should the need arise.
+Having such a bag with the most precious things one might own, as well as supplies to survive with, is essential.
+
+To tamper with an Escape Bag is a serious crime, though generally when there is a need to escape, it's hard to enforce any punishment short of banishment from the group.
+
 ## Government
 
 Each town has a mayor and a council.
@@ -48,9 +54,29 @@ Occurs at the beginning of Winter.
 
 ## Common Activities
 
+[[Seeking Shelter]]
+A competitive board game designed to develop one's intuition and ability to read others.
+
 ## Method of Dress
 
 ## Art and Architecture
+
+It isn't uncommon for a [[Kalis|kalis]] to decorate in a way that others may find macabre; far less so than their inland counterparts though.
+They do not shy away from death in their literature and performances, instead embracing the uncomfortableness of it to explore the thoughts associated more fully.
+
+With no major mountains directly on [[Laef]], and only minor access to groundwater, rain barrels are an important fixture of each and every burrow, with elaborate funnels and tubes set up to bring the water down into the safety of underground living.
+
+## Food and Cuisine
+
+The herbivorous diet of the [[Kalis|kalis]] requires plenty of produce, be it fresh, pickled, fermented, or any other preservation method available.
+Their sensitive palette is capable of detecting the slightest 'off' flavor, which leads to them being very slow to adopt new dishes.
+It is for this reason that each town has a signature dish that they adapt and modify, working to perfect what they already have.
+Grains make up the majority of their diet, supplemented with berries, fruits, and green leafy vegetables.
+
+It is said that [[Humans|humans]] introduced the [[Kalis|kalis]] to tea.
+That may be the case.
+But the [[Kalis|kalis]] have adopted it completely, and developed a form of horticultural art as a result.
+Whole gardens are cultivated for the sole purpose of being able to more fully enjoy the tea via a peaceful viewing experience.
 
 ## Common Taboos
 

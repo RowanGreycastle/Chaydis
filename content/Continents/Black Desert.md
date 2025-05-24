@@ -3,7 +3,7 @@
 
 The [[The Sun|sun]] scorched desert surrounding [[The Sunspire]], granted to the [[Inuri|inuri]].
 
-The concentration of [[Mana|mana]] found here is nearly entirely [[Fyre]].
+The concentration of [[Mana|mana]] found here is nearly entirely [[Surahn]].
 
 ## Overview
 

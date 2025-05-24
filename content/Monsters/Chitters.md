@@ -6,11 +6,22 @@
 A beastly species with distinctly insectoid shapes.
 They came in an array of subspecies, each of which has a specialized task that they seem to have been purpose built for.
 They range in size from barely larger than a house cat, to something approaching the size of a [[Humans|human]].
+They do not appear to interact with [[Mana|mana]] in any traditional sense, and instead adapt to their environment through inbuilt mutation mechanisms.
 
 ## Dietary Requirements
 
 There is very little that they will not eat, often resulting in barren wastelands of stripped trees being left in their wake if left unchecked for too long.
 They start with the wildlife; the eerie silence can be a good indicator that they're about.
+
+## Stages
+
+An invasion of these creatures into an ecosystem comes in multiple parts.
+First, the smallest of the species are seen, acting as scouts to search for food sources.
+Next, a test attack is launched against whatever food is found, to learn of any defenses that are in place.
+The smallest of the species and the flying version are sent on this skirmish, so as not to commit unnecessary resources to a small raid.
+If successful, they grow using the meat secured in their hunt.
+If they fail, efforts are spent elsewhere to gain the meat required to build up their force, and try again with different tactics.
+Only a few short weeks is all that's required to go from scouts to a full on hive.
 
 ## Subspecies
 

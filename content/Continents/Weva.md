@@ -3,7 +3,7 @@
 
 The swampy island cluster 'continent' that [[Seith]] claimed for his [[Lagos|lagos]].
 
-The concentration of [[Mana|mana]] found here is nearly entirely [[Akwa]].
+The concentration of [[Mana|mana]] found here is nearly entirely [[Uresh]].
 
 ## Overview
 

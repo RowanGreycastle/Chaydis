@@ -7,6 +7,23 @@ The study of external, free-floating, unstable [[Mana|mana]] in an environment.
 By using what is already available in the area, those who practice this method are capable of achieving things without the ever-present fear experienced by practitioners of [[Ancient Arcana|ancient arcana]].
 The effects are far smaller, and more controlled, though the requirements are significantly higher.
 
+## Benefits
+
+
+
+## Drawbacks
+
+The primary effect of [[Mana|mana]] usage comes about via transforming the existing [[Mana|mana]] into its counterpart.
+[[Bizahn]] to [[Izosh]].
+[[Surahn]] to [[Haizesh]].
+[[Lurahn]] to [[Uresh]].
+And vice versa.
+For this transformation to take place, a catalyst must be used.
+One already possessing an internal [[Mana|mana]] source need not worry beyond ensuring that they can produce what is required for the transformation.
+Those without must rely on a tool whose uses are limited, and must be recharged.
+
+
+
 ## Tools
 
 Practitioners of this style of the arcane arts are ill equipped if they do not possess a heavily researched notebook, a focusing object, and a wide brimmed hat.
@@ -29,7 +46,7 @@ Goodness knows why this was what spurred the woman on, possibly out of desperati
 
 The night sky was studied, more measurements, more experiments.
 There did not seem to be any pattern or reason to the movements of the stars.
-There also did not seem to be any association between the night sky and the freely floating mana...
+There also did not seem to be any association between the night sky and the freely floating [[Mana|mana]]...
 Until there was finally a breakthrough.
 A series of stars that had stayed in position, on a day where the measurement of a specific type of [[Mana|mana]] had not changed.
 A foothold!

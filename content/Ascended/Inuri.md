@@ -11,7 +11,7 @@
 *They might start tryin' to learn the laws of the land and the names of everyone in town, or they might try 'n form their own colony by recruitin' folks.*
 *Either way, there'll be a bout where they lock themselves away, probably have a good think about things.*
 *... Mind, I've only seen a handful of 'em in person.*
-*Each one shared a trait though; they gave off an air of [[Fyre|passionate devotion]] toward anything they set their sights on."*
+*Each one shared a trait though; they gave off an air of [[Surahn|passionate devotion]] toward anything they set their sights on."*
 
 ## General Appearance
 
@@ -24,6 +24,16 @@ The amount of limbs they have will generally depend on the task they've been ass
 ## Dietary Considerations
 
 They are omnivorous, though they consider meat to be a rare treat that must be enjoyed to its fullest.
+
+## Procreation and Young
+
+Inuri queens emerge fully formed from the base of [[The Sunspire]], with the knowledge of how to create a colony.
+The process of chipping small shards from her own body is a strange one.
+The body itself is made of a clay-like excretion that only the queen is capable of producing, and the melding of the shards and sculpting of the body essence is said to be quite cathartic.
+
+Each shard contains some small aspect of a queen's personality, hopefully suited for whatever task the new colony member will be assigned.
+All* have extreme devotion to their queen, as she is the true individual among them.
+It is by her continued existence that survival of the colony is assured.
 
 ## Communication Methods
 

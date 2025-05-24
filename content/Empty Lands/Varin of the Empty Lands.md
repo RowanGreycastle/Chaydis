@@ -85,6 +85,15 @@ Most non-stove surfaces in a [[Varin|varin]] [[Stove Homes|stove home]] are cove
 The blankets absorb the heat from the stove, keeping the residents comfortable and warm while they sleep.
 Each new resident is expected to add a section to the blanket.
 
+## Food and Cuisine
+
+## Common Traditions and Rituals
+
+## Common Transportation Methods
+
+To travel the ice and snow by foot for any long distance, one would need to be more determined than the utterly deranged, or to be a creature native to this frozen place.
+The [[Kalis|kalis]] use [[Wooly Beetle]]s to draw covered sleds when travelling long distances, allowing them to tuck away safely within [[Tenub]] to escape the whipping wind.
+
 ## New Life and Coming of Age Practices
 
 On nights where four [[Shadow Lanterns]] gather in a village, it is known that [[Shax]] will appear before the residents.

@@ -3,7 +3,7 @@
 
 The craggy, mountainous continent that [[Crom]] chose for his [[Gurem|gurem]].
 
-The concentration of [[Mana|mana]] found here is nearly entirely [[Rok]].
+The concentration of [[Mana|mana]] found here is nearly entirely [[Lurahn]].
 
 ## Overview
 
