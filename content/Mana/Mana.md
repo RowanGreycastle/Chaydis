@@ -7,7 +7,7 @@ Mana is a renewable resource within an environment.
 It is by no means infinite, and if it is used up completely, this can lead to ecosystem collapse.
 
 Mana was created in vast quantities when Chaydis was created.
-Rare [[Humans|humans]] are born with the ability to produce mana, though they are incapable of releasing it from themselves without special training.
+Rare [[Humans|humans]] are born with the ability to produce mana, though due to their scarcity, they lack the ability to properly account for the loss of mana due to use and other factors.
 It is not until the creation of the [[Ascended]] that a consistent source was discovered to put mana back into the system; this brought about a new problem, as strong enough concentrations of mana result in natural disasters.
 
 [[Dungeons]] are a naturally occurring source of mana, though they are very rarely helpful, as they can appear seemingly anywhere, and issue forth any sort of mana.
@@ -21,7 +21,13 @@ A pocket of [[Bizahn]] in the [[Black Desert]] will cause plant life to spring f
 
 When mana is expended to perform Arcane Arts, it does not disappear.
 The type is simply shifted to its alternate, resulting in a release of energy.
-Some of the overall mana is lost into a neutral state during the process, which is how so much mana was depleted from the system during the Age of Humanity, without another source to replenish it.
+Some of the overall mana is lost into a neutral state during the process, which is how so much mana was depleted from the system during the Age of Humanity, without another consistent source to replenish it.
+
+## Mana Creation
+
+As one who produces mana eats, their associated mana type is pushed back out into the environment around them.
+Among [[Humans|humans]], this is quite rare.
+To the [[Ascended]], every single member of their species is capable of producing this.
 
 ## Mana Crystals
 
