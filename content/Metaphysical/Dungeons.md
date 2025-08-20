@@ -18,3 +18,7 @@ Rule 2: Each dungeon has a reward at the end that it's tied to.
 Rule 3: No matter how much it looks like you're outside while in a dungeon, you are NOT outside.  
 Rule 4: Dungeons are not particularly stable, and will shift on occasion; the less stable the dungeon, the more possible shifts there are.  
 Rule 5: Death in a dungeon is not necessarily permanent... unless the body is lost.
+
+## Ecology
+
+Dungeons will generally have at least three sorts of creatures within that possess a goal. At times, the goals will align, but far more frequently they put the creatures at odds with one another. As the power dynamic shifts, the dungeon itself shifts with it.

@@ -22,3 +22,8 @@ If a 'good spot' token is flipped, that player has claimed one of the winning po
 If a 'bad spot' token is flipped, the player who flipped it is the one who has lost, and the game ends.
 
 To a non-[[Kalis|kalis]], the game might appear to be entirely luck based, but to a [[Kalis|kalis]], it's all about reading body language and subtle reactions.
+
+Some popular 'house rules' that have been used over the years include:
+- Setting a turn timer, to ramp up the urgency.
+- Allowing 2 Peeks per turn to increase information gathered.
+- Removing a random token per round without looking at it, to eliminate the certainty of all but one person winning.

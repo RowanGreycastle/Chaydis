@@ -1,0 +1,16 @@
+# Port Turnabout - A History
+### As Written By Genevieve of Thornburrow
+
+*All information contained within this document was gathered through conversations with Gaius, formerly of the [[The Riddius Family|Riddius Family]].*
+
+Generations ago, when the [[The Sun|sun]] split the sky, and the [[Continents|continents]] were separated, members of an important house known as [[The Fyrehart Clan|Fyrehart]] were travelling back toward a [[Humans|human]] city whose name is now lost to time. They and their travelling warriors were far enough away to not be caught in the gaze, but close enough to be certain of the disappearance of the city that they had called home.
+
+Desperation and terror took them from that shore, inland and away from the [[The Sun|sun]] that had taken loved ones and strangers alike, so suddenly as to drive home one's mortality. Many were lost in the travels; from the terrors of the night, the peril of the journey, the cold, starvation. By the time they found the Southern shores, their numbers had been cut nearly in half.
+
+Morale was low, but their senses had returned. There was no way that they could live this far from civilization. No possible means by which they could support themselves, nor the lifestyle of a household so favored. Conversations were had; hard conversations that needed to be had. The sort that would result in change, or include the step of bloodshed. In the cacophony of raised voices and high tension, not a one had noticed a young man, a fresh recruit, slip away from the group.
+
+Those of [[The Fyrehart Clan|Fyrehart]] spoke of duty and honor, but the warriors were no fools. The remaining food needed to be rationed appropriately, and even then, it would not last the group more than a few days. One man broached a topic best left unsaid. Not far from where they'd stopped, an old stone monument to some long forgotten deity loomed over their carriages.
+
+And as the tempo of the conversation raised, and things appeared to be coming to a breaking point, that same young man returned, arms laden with fresh produce, promising plenty more. He had followed a voice into the cold, stony countryside, and claimed to have met a woman there. Skepticism abound, though hunger won out over worry. After dividing up what had been brought and at least getting something in their bellies, the majority opted to follow the man to see if his words were true.
+
+And in this frozen, stony wasteland, in a place no sane person would settle, they found a field. A field unmarred by the ravages of cold, untouched by the chill winds, despite only being surrounded by a short stone fence. Within, all manner of vegetables and fruits grew, in such proximity with one another as to make no sense, in direct defiance of the natural order of things. What could this be, if not the powers of some greater being? The gate to the wonderous land was flanked by twin statues, two motherly women with arms stretched high, linking fingers in an arch. The sculptor had taken great care to note every contour and swell, every leaf in their hair, and had somehow managed to have the statues' eyes seem to follow any who looked at them.

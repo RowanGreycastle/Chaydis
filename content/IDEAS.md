@@ -1,0 +1,1 @@
+"I'm imagining there's something like trufflehound pigs, animals which used to live on certain main foods in large groups but now there are a lot less growing around but people use their keen smell or other natural seeking ability to procure what is now rare and valuable ingredients"
